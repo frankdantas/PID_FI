@@ -1,0 +1,96 @@
+﻿#mensagem 
+{
+    padding: 10px;
+    border: 1px dashed #000;
+    color: #f00;
+}
+
+#Nome 
+{
+    width: 510px;
+}
+
+#Email
+{
+    width: 325px;
+}
+
+#Dt_Nascimento
+{
+    width: 165px;
+}
+
+#CPF
+{
+    width: 155px;
+}
+
+#RG
+{
+    width: 150px;
+}
+
+#OrgaoEmissor
+{
+    width: 165px;
+}
+
+#Tel
+{
+    width: 155px;
+}
+
+#Cel
+{
+    width: 150px;
+}
+
+#CEP
+{
+    width: 165px;
+}
+
+#Endereco
+{
+    width: 325px;
+}
+
+#Numero
+{
+    width: 165px;
+}
+
+#Bairro
+{
+    width: 510px;
+}
+
+#Cidade
+{
+    width: 325px;
+}
+
+#Estado
+{
+    width: 165px;
+}
+
+#ACEM
+{
+    width: 155px;
+}
+
+#Op1
+{
+    width: 160px;
+}
+
+#Op2
+{
+    width: 155px;
+}
+
+strong 
+{
+    font-weight: bold;
+}
